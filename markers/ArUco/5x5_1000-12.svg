@@ -1,1 +1,192 @@
-<svg viewBox="0 0 7 7" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" width="100mm" height="100mm"><rect x="0" y="0" width="7" height="7" fill="black"></rect><rect width="1.5" height="1" x="1" y="1" fill="white"></rect><rect width="1.5" height="1" x="2" y="1" fill="white"></rect><rect width="1" height="1.5" x="2" y="1" fill="white"></rect><rect width="1.5" height="1" x="3" y="1" fill="white"></rect><rect width="1" height="1.5" x="3" y="1" fill="white"></rect><rect width="1" height="1" x="4" y="1" fill="white"></rect><rect width="1.5" height="1" x="2" y="2" fill="white"></rect><rect width="1" height="1.5" x="2" y="2" fill="white"></rect><rect width="1" height="1" x="3" y="2" fill="white"></rect><rect width="1" height="1" x="2" y="3" fill="white"></rect><rect width="1" height="1.5" x="2" y="3" fill="white"></rect><rect width="1" height="1" x="4" y="3" fill="white"></rect><rect width="1.5" height="1" x="1" y="4" fill="white"></rect><rect width="1" height="1.5" x="1" y="4" fill="white"></rect><rect width="1" height="1" x="2" y="4" fill="white"></rect><rect width="1" height="1" x="1" y="5" fill="white"></rect><rect width="1" height="1" x="5" y="5" fill="white"></rect></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 7 7"
+   shape-rendering="crispEdges"
+   width="100mm"
+   height="100mm"
+   version="1.1"
+   id="svg2504"
+   sodipodi:docname="5x5_1000-12.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata2510">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2508" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     id="namedview2506"
+     showgrid="false"
+     inkscape:zoom="1.7290187"
+     inkscape:cx="282.46416"
+     inkscape:cy="171.10259"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2504" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95273811;stroke-miterlimit:4;stroke-dasharray:0.952738, 0.952738;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect3323"
+     width="7.6999998"
+     height="7.6999998"
+     x="-7.3499999"
+     y="-0.34999987"
+     transform="scale(-1,1)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36562759;stroke-miterlimit:4;stroke-dasharray:0.36562763, 0.36562762999999998;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2512"
+     width="7.6999998"
+     height="7.6999998"
+     x="-0.34999999"
+     y="-0.35000145" />
+  <rect
+     x="0"
+     y="0"
+     width="7"
+     height="7"
+     fill="black"
+     id="rect2468" />
+  <rect
+     width="1.5"
+     height="1"
+     x="1"
+     y="1"
+     fill="white"
+     id="rect2470" />
+  <rect
+     width="1.5"
+     height="1"
+     x="2"
+     y="1"
+     fill="white"
+     id="rect2472" />
+  <rect
+     width="1"
+     height="1.5"
+     x="2"
+     y="1"
+     fill="white"
+     id="rect2474" />
+  <rect
+     width="1.5"
+     height="1"
+     x="3"
+     y="1"
+     fill="white"
+     id="rect2476" />
+  <rect
+     width="1"
+     height="1.5"
+     x="3"
+     y="1"
+     fill="white"
+     id="rect2478" />
+  <rect
+     width="1"
+     height="1"
+     x="4"
+     y="1"
+     fill="white"
+     id="rect2480" />
+  <rect
+     width="1.5"
+     height="1"
+     x="2"
+     y="2"
+     fill="white"
+     id="rect2482" />
+  <rect
+     width="1"
+     height="1.5"
+     x="2"
+     y="2"
+     fill="white"
+     id="rect2484" />
+  <rect
+     width="1"
+     height="1"
+     x="3"
+     y="2"
+     fill="white"
+     id="rect2486" />
+  <rect
+     width="1"
+     height="1"
+     x="2"
+     y="3"
+     fill="white"
+     id="rect2488" />
+  <rect
+     width="1"
+     height="1.5"
+     x="2"
+     y="3"
+     fill="white"
+     id="rect2490" />
+  <rect
+     width="1"
+     height="1"
+     x="4"
+     y="3"
+     fill="white"
+     id="rect2492" />
+  <rect
+     width="1.5"
+     height="1"
+     x="1"
+     y="4"
+     fill="white"
+     id="rect2494" />
+  <rect
+     width="1"
+     height="1.5"
+     x="1"
+     y="4"
+     fill="white"
+     id="rect2496" />
+  <rect
+     width="1"
+     height="1"
+     x="2"
+     y="4"
+     fill="white"
+     id="rect2498" />
+  <rect
+     width="1"
+     height="1"
+     x="1"
+     y="5"
+     fill="white"
+     id="rect2500" />
+  <rect
+     width="1"
+     height="1"
+     x="5"
+     y="5"
+     fill="white"
+     id="rect2502" />
+</svg>
